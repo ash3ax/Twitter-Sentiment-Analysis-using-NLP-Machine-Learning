@@ -44,6 +44,26 @@ Install using:
 pip install matplotlib
 ```
 
+5. Natural Language Processing Toolkit [NLTK] - For natural language processing
+
+Install using:
+
+```
+pip install nltk
+```
+
+To download data for additional testing use:
+
+```
+python 3
+>> import nltk
+>> nltk.download()
+```
+
+Choose whichever corporous you want to download.
+
+
+
 *Note:* If any of the above installations give any errors, you can download the wheel file for "Windows only" from following link:
 
 ```
