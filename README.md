@@ -28,7 +28,7 @@ Go inside the tweepy folder and install it using:
 python setup.py install
 ```
 
-3. **Scikit-Learn** - For Machine Learning.
+3.**Scikit-Learn** - For Machine Learning.
 
 Install using:
 
@@ -36,7 +36,7 @@ Install using:
 pip install scikit-learn
 ```
 
-4. **Matplotlib** - To plot data in real time
+4.**Matplotlib** - To plot data in real time
 
 Install using:
 
@@ -44,7 +44,7 @@ Install using:
 pip install matplotlib
 ```
 
-5. **Natural Language Processing Toolkit [NLTK]** - For natural language processing
+5.**Natural Language Processing Toolkit [NLTK]** - For natural language processing
 
 Install using:
 
